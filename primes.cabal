@@ -1,0 +1,10 @@
+cabal-version: 3.6
+
+name: primes
+version: 0.1.0.0
+
+executable primes
+  hs-source-dirs: app
+  main-is: Main.hs
+
+  build-depends: base ^>=4.14.3.0
