@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "hoovercj.haskell-linter",
+    "justusadam.language-haskell",
+    "haskell.haskell",
+    "EditorConfig.EditorConfig"
+  ]
+}
