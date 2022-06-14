@@ -7,4 +7,4 @@ executable primes
   hs-source-dirs: app
   main-is: Main.hs
 
-  build-depends: base ^>=4.14.3.0
+  build-depends: base
